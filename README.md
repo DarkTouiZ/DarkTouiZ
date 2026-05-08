@@ -21,7 +21,7 @@ I build projects that connect low-level engineering with real-world data: digita
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,md&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,js,ts,html,css,md&theme=light" alt="Languages" />
 </p>
 
 <p>
@@ -30,17 +30,30 @@ I build projects that connect low-level engineering with real-world data: digita
   <img src="https://img.shields.io/badge/FPGA-Computer%20Architecture-00897B?style=flat-square" alt="FPGA" />
 </p>
 
-## Project Stack
+## Software And Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,sqlite,git,github,linux&theme=light" alt="Project stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,docker,sqlite,git,github,linux&theme=light" alt="Software and web stack" />
+</p>
+
+## Game Dev And Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,arduino&theme=light" alt="Game development and hardware" />
+</p>
+
+## GIS And Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn&theme=light" alt="GIS and data" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Data-139C5A?style=flat-square" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/Rasterio-Raster%20GIS-4A7C59?style=flat-square" alt="Rasterio" />
   <img src="https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B?style=flat-square" alt="Streamlit" />
   <img src="https://img.shields.io/badge/XGBoost-Modeling-FF6600?style=flat-square" alt="XGBoost" />
   <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-0B7285?style=flat-square" alt="SHAP" />
-  <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Data-139C5A?style=flat-square" alt="GeoPandas" />
   <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=flat-square" alt="MLflow" />
 </p>
 
