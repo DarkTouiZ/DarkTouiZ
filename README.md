@@ -1,19 +1,53 @@
 # Adisorn Parama
 
-**Computer Engineering student and builder focused on embedded systems, FPGA/HDL design, data platforms, and applied machine learning.**
+**Computer Engineering student focused on embedded systems, FPGA/HDL, applied machine learning, and practical software systems.**
 
-I enjoy turning technical ideas into working systems: from low-level digital logic in VHDL/Verilog to Python-based analytics tools, C data-structure projects, and full-stack applications. My work usually sits close to the boundary between hardware, software, and real-world data.
+I build projects that connect low-level engineering with real-world data: digital design and computer architecture, C-based systems programming, geospatial machine learning, dashboards, and application services.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarkTouiZ-181717?style=flat&logo=github)](https://github.com/DarkTouiZ)
-[![Focus](https://img.shields.io/badge/Focus-FPGA%20%7C%20ML%20%7C%20Systems-blue)](#current-focus)
-[![Code](https://img.shields.io/badge/Code-Python%20%7C%20C%20%7C%20Verilog%20%7C%20VHDL-green)](#technical-stack)
+## Connect With Me
 
-## Current Focus
+<p>
+  <a href="https://www.linkedin.com/in/adisornparama/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adisorn%20Parama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/exceptionz">
+    <img src="https://img.shields.io/badge/Kaggle-exceptionz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://github.com/DarkTouiZ">
+    <img src="https://img.shields.io/badge/GitHub-DarkTouiZ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- FPGA and digital design using **VHDL**, **Verilog**, testbenches, finite-state machines, datapaths, and simulation-driven verification.
-- Applied machine learning for geospatial and urban analytics, including risk modeling, explainability, and dashboard delivery.
-- Systems programming in C, especially graph algorithms, memory-oriented data structures, and database-style representations.
-- Building practical applications that connect data, models, and user-facing tools.
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,md&theme=light" alt="Languages" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Verilog-RTL%20Design-2F5D9F?style=flat-square" alt="Verilog" />
+  <img src="https://img.shields.io/badge/VHDL-Digital%20Logic-5B3FA3?style=flat-square" alt="VHDL" />
+  <img src="https://img.shields.io/badge/FPGA-Computer%20Architecture-00897B?style=flat-square" alt="FPGA" />
+</p>
+
+## AI And Data Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=light" alt="AI and data tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-Modeling-FF6600?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-0B7285?style=flat-square" alt="SHAP" />
+  <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Data-139C5A?style=flat-square" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=flat-square" alt="MLflow" />
+</p>
+
+## Frameworks And Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,bootstrap,django,flask,fastapi,sqlite,firebase,gcp,aws,azure,docker,git,github,linux,vscode,arduino&theme=light&perline=10" alt="Frameworks and tools" />
+</p>
 
 ## Featured Projects
 
@@ -25,67 +59,10 @@ I enjoy turning technical ideas into working systems: from low-level digital log
 | [CPE223 Computer Architecture](https://github.com/DarkTouiZ/CPE223_Computer_Achitecture) | Computer architecture practice with digital logic, HDL concepts, and FPGA-oriented thinking. | VHDL, Verilog, computer architecture |
 | [Game Aided for Learning Celestial Sphere VR](https://github.com/DarkTouiZ/Game-Aided-for-Learning-Celestial-Sphere-VR) | Learning-focused VR/game concept for celestial sphere education. | VR, interactive learning |
 
-## HDL / FPGA Work
+## What I Like Building
 
-I am especially interested in how digital systems are designed, simulated, and mapped onto FPGA hardware. My HDL practice includes:
-
-- Combinational and sequential logic design
-- Finite-state machines and counters
-- Register-transfer level design
-- Testbench-based simulation
-- Timing-aware FPGA implementation mindset
-- VHDL and Verilog code organization for readable hardware modules
-
-Example Verilog module:
-
-```verilog
-module counter_4bit (
-    input  wire clk,
-    input  wire rst_n,
-    input  wire enable,
-    output reg  [3:0] count
-);
-    always @(posedge clk or negedge rst_n) begin
-        if (!rst_n)
-            count <= 4'b0000;
-        else if (enable)
-            count <= count + 4'b0001;
-    end
-endmodule
-```
-
-Example VHDL process:
-
-```vhdl
-process(clk, rst_n)
-begin
-    if rst_n = '0' then
-        q <= '0';
-    elsif rising_edge(clk) then
-        if enable = '1' then
-            q <= d;
-        end if;
-    end if;
-end process;
-```
-
-## Technical Stack
-
-**Languages:** Python, C, Verilog, VHDL, JavaScript, SQL  
-**Hardware / Digital:** FPGA design, RTL, FSMs, datapaths, computer architecture, simulation, testbenches  
-**Data / ML:** XGBoost, Scikit-learn, SHAP, GeoPandas, Streamlit, MLflow  
-**Software:** Git, Linux, API integration, data pipelines, dashboard development  
-**Interests:** embedded systems, intelligent systems, geospatial analytics, digital logic, practical AI tools
-
-## GitHub Snapshot
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DarkTouiZ&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTouiZ&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-## Contact
-
-- GitHub: [@DarkTouiZ](https://github.com/DarkTouiZ)
-- Email: [adisorn.safe01@gmail.com](mailto:adisorn.safe01@gmail.com)
+- Data products that turn messy real-world information into useful decisions.
+- Embedded and digital systems where hardware behavior matters.
+- Clean dashboards and services that make technical work easier to understand.
+- Algorithmic projects in C, Python, and HDL that strengthen the fundamentals.
 
