@@ -30,23 +30,18 @@ I build projects that connect low-level engineering with real-world data: digita
   <img src="https://img.shields.io/badge/FPGA-Computer%20Architecture-00897B?style=flat-square" alt="FPGA" />
 </p>
 
-## AI And Data Stack
+## Project Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=light" alt="AI and data tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,sqlite,git,github,linux&theme=light" alt="Project stack" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B?style=flat-square" alt="Streamlit" />
   <img src="https://img.shields.io/badge/XGBoost-Modeling-FF6600?style=flat-square" alt="XGBoost" />
   <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-0B7285?style=flat-square" alt="SHAP" />
   <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Data-139C5A?style=flat-square" alt="GeoPandas" />
   <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=flat-square" alt="MLflow" />
-</p>
-
-## Frameworks And Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,bootstrap,django,flask,fastapi,sqlite,firebase,gcp,aws,azure,docker,git,github,linux,vscode,arduino&theme=light&perline=10" alt="Frameworks and tools" />
 </p>
 
 ## Featured Projects
@@ -65,4 +60,3 @@ I build projects that connect low-level engineering with real-world data: digita
 - Embedded and digital systems where hardware behavior matters.
 - Clean dashboards and services that make technical work easier to understand.
 - Algorithmic projects in C, Python, and HDL that strengthen the fundamentals.
-
