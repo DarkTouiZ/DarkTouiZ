@@ -13,9 +13,6 @@ I build projects that connect low-level engineering with real-world data: digita
   <a href="https://www.kaggle.com/exceptionz">
     <img src="https://img.shields.io/badge/Kaggle-exceptionz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://github.com/DarkTouiZ">
-    <img src="https://img.shields.io/badge/GitHub-DarkTouiZ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ## Languages
@@ -52,7 +49,6 @@ I build projects that connect low-level engineering with real-world data: digita
   <img src="https://img.shields.io/badge/GeoPandas-Geospatial%20Data-139C5A?style=flat-square" alt="GeoPandas" />
   <img src="https://img.shields.io/badge/Rasterio-Raster%20GIS-4A7C59?style=flat-square" alt="Rasterio" />
   <img src="https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B?style=flat-square" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/XGBoost-Modeling-FF6600?style=flat-square" alt="XGBoost" />
   <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-0B7285?style=flat-square" alt="SHAP" />
   <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=flat-square" alt="MLflow" />
 </p>
